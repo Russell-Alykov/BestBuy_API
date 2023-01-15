@@ -9,4 +9,4 @@ Functions what can be use from this project:<br/>
 show_total_pages_n_columns(url)<br/>
 data_downloader(pages)<br/>
 def exploratory_analisys(df)<br/>
-All descriptions in .__doc__
+All descriptions in __doc__
