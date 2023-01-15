@@ -1,5 +1,5 @@
 # BestBuy_API
-Downloading Bestbuy products data via api. Products and customers reviews base analysis.
+Downloading Bestbuy products data via api. Products and customers reviews base analysis.<br/>
 API documentation https://bestbuyapis.github.io/api-documentation.
 
 Used libraries:<br/> 
