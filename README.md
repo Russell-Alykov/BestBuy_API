@@ -5,7 +5,7 @@ API documentation https://bestbuyapis.github.io/api-documentation.
 Used libraries:<br/> 
 Pandas, Seaborn, Matplotlib.pyplot, Requests, Time, os.
     
-Functions from this project what can be use:<br/>
+Functions what can be use from this project:<br/>
 **show_total_pages_n_columns(url)**<br/>
 Showing number of pages, number of goods and showing columns<br/>
 **data_downloader(pages)**<br/>
