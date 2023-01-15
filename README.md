@@ -2,11 +2,11 @@
 Downloading Bestbuy products data via api. Products and customers reviews base analysis.
 API documentation https://bestbuyapis.github.io/api-documentation.
 
-Used libraries: 
+Used libraries:<br/> 
 Pandas, Seaborn, Matplotlib.pyplot, Requests, Time, os.
     
-Functions what can be use from this project:
-show_total_pages_n_columns(url)
-data_downloader(pages)
-def exploratory_analisys(df)
+Functions what can be use from this project:<br/>
+show_total_pages_n_columns(url)<br/>
+data_downloader(pages)<br/>
+def exploratory_analisys(df)<br/>
 All description in __doc__
