@@ -6,7 +6,10 @@ Used libraries:<br/>
 Pandas, Seaborn, Matplotlib.pyplot, Requests, Time, os.
     
 Functions what can be use from this project:<br/>
-show_total_pages_n_columns(url)<br/>
-data_downloader(pages)<br/>
-def exploratory_analisys(df)<br/>
+**show_total_pages_n_columns(url)**<br/>
+Showing number of pages, number of goods and showing columns<br/>
+**data_downloader(pages)**<br/>
+Downloading products data from BestBuy<br/>
+**def exploratory_analisys(df)**<br/>
+Data frame Exploratory Data Analisys
 All descriptions in __doc__
