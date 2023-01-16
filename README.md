@@ -10,6 +10,6 @@ Functions what can be use from this project:<br/>
 Showing number of pages, number of goods and showing columns<br/>
 **data_downloader(pages)**<br/>
 Downloading products data from BestBuy<br/>
-**def exploratory_analisys(df)**<br/>
+**exploratory_analisys(df)**<br/>
 Exploratory Data Analisys<br/>
 All descriptions in __doc__
