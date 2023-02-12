@@ -12,4 +12,4 @@ Showing number of pages, number of goods and showing columns<br/>
 Downloading products data from BestBuy<br/>
 **exploratory_analisys(df)**<br/>
 Exploratory Data Analisys<br/>
-All descriptions in _doc_
+All descriptions in __doc__
